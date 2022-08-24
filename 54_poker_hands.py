@@ -1,8 +1,5 @@
 # Problem 54 - Poker Hands
 
-from unittest import result
-
-
 with open('poker.txt') as f:
     lines = f.read().split('\n')[:-1]
 
